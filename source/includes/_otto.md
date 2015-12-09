@@ -14,11 +14,13 @@ Inside your fancy blue OTTO pelican case you will find
 ![](images/IMG_7246.JPG)
 
 ## OTTO Buttons, Cranks, and Ports
+
 1. Pink Shutter Button - Selects and Activates menu items. Acts as a shutter button in GIF mode.
 2. Crank - Navigates OTTOs menu, Rotate clockwise in GIF mode to take images for GIFs. Rotate counter-clockwise in GIF mode to compile and save your images into a GIF.![crank](images/IMG_7247.JPG)
 3. Grey Button - Turns OTTO on. Navigates back to the OTTOs main menu.
 4. Power Port - Charges OTTO's battery via the USB Charging Cable.![Power Port](images/IMG_7250.JPG)
-5. microUSB Port - The Yellow OTTO Circle houses a micro USB port. Twist left to access. ![microUSB port](images/IMG_7248.JPG)
+5. microUSB Port - The Yellow OTTO Circle houses a micro USB port. Twist left to access.
+![microUSB port](images/IMG_7248.JPG)
 
 ## Turning OTTO on!
 To power OTTO on, press the grey button on the underside of OTTO. Just a quick tap works.**BE PATIENT!** 
@@ -28,15 +30,27 @@ If you press and hold for 4 seconds, it will always cut power. There is a comput
 ![](images/POWER-ONcompressed.gif)
 
 
-## OTTOs Menu
+## OTTO's Menu
 Navigate OTTOs menu by rotating the crank. Press down on the crank to pop it up. Navigate back to this menu at any time by pressing the grey button on the underside of OTTO.
 
-1. GIF - OTTOs standard image making mode![](images/image6.jpeg)
-2. WiFi - Use this to turn on and off OTTOs WiFi. See OTTOs network and the IP address for accessing your GIFs through your phone or computer. ![](images/image4.jpeg)
-3. Update - Get the latest and greatest OTTO software via wireless software updates. ![](images/image5.jpeg)
-4. Battery Status - See how muchcharge is left on OTTO. ![](images/image3.jpeg)
-5. Memory - See the status of OTTOs internal storage.![](images/image2.jpeg)
-6. Sleep - Hold the pink shutter button to put OTTO to sleep. When OTTO says goodnight, OTTO is powered down. ![](images/image1.jpeg)
+1. GIF - OTTOs standard image making mode
+
+![GIF](images/image6.jpeg)
+2. WiFi - Use this to turn on and off OTTOs WiFi. See OTTOs network and the IP address for accessing your GIFs through your phone or computer. 
+
+![WiFi](images/image4.jpeg)
+3. Update - Get the latest and greatest OTTO software via wireless software updates. 
+
+![Update](images/image5.jpeg)
+4. Battery Status - See how much charge is left on OTTO. 
+
+![Battery Status](images/image3.jpeg)
+5. Memory - See the status of OTTOs internal storage.
+
+![Memory](images/image2.jpeg)
+6. Sleep - Hold the pink shutter button to put OTTO to sleep. When OTTO says goodnight, OTTO is powered down. 
+
+![Sleep](images/image1.jpeg)
 
 
 ## Viewing & Downloading GIFs on OTTO
@@ -44,8 +58,12 @@ Navigate OTTOs menu by rotating the crank. Press down on the crank to pop it up.
 To View!
 
 1. Use the crank to navigate to WiFi on OTTOs menu. Click the Pink Shutter button to turn WiFi on.
-2. Join the OTTO WiFi network on your phone or computer. Navigate to the IP address OTTO provides. ![](images/update3.jpg)
-3. See your GIFs! Swipe Swipe right to view previous GIFs. ![](images/image3.png)
+2. Join the OTTO WiFi network on your phone or computer. Navigate to the IP address OTTO provides. 
+
+![](images/update3.jpg)
+3. See your GIFs! Swipe Swipe right to view previous GIFs. 
+
+![](images/image3.png)
 4. Tweet, Facebook, Pintrest or Download! Share your work!
 
 To Download!
