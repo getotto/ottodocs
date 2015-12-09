@@ -178,9 +178,14 @@ html, body {
     background-color: $nav-active-bg;
     color: $nav-active-text;
   }
-
+  .tocify-header {
+    font-size: 14px;
+  }
   // Subheaders are the submenus that slide open
   // in the table of contents.
+  .tocify-subheader {  
+  padding-left: 10px;
+  font-size: 13px;
   .tocify-subheader {
     display: none; // tocify will override this when needed
     background-color: $nav-subitem-bg;
@@ -195,6 +200,7 @@ html, body {
     &>li:last-child {
       box-shadow: none; // otherwise it'll overflow out of the subheader
     }
+  }
   }
 
   .toc-footer {
@@ -273,6 +279,7 @@ html, body {
   // I know, it's hackish, but it's the simplist way to make the left
   // half of the content always this background color.
   .dark-box {
+    display: none;
     width: $examples-width;
     background-color: $examples-bg;
     position: absolute;
@@ -336,7 +343,7 @@ html, body {
   }
 
   &>h1, &>h2, &>h3, &>h4, &>h5, &>h6, &>p, &>table, &>ul, &>ol, &>aside, &>dl {
-    margin-right: $examples-width;
+    // margin-right: $examples-width;
     padding: 0 $main-padding;
     box-sizing: border-box;
     display: block;
@@ -528,9 +535,9 @@ html, body {
 
     padding: 2em $main-padding;
     margin: 0;
-    width: $examples-width;
+    //width: $examples-width;
 
-    float:right;
+    //float:right;
     clear:right;
 
     box-sizing: border-box;
@@ -590,11 +597,28 @@ html, body {
     padding-top: 0.3em;
     padding-bottom: 0.3em;
   }
+  
+  .dark-box {
+    display: none;
+  }
+
+  %right-col {
+    width: auto;
+    float: none;
+  }
+
+ 
 }
 
 @media (max-width: $phone-width) {
+
   .dark-box {
     display: none;
+  }
+
+  %right-col {
+    width: auto;
+    float: none;
   }
 
   %left-col {
@@ -607,11 +631,6 @@ html, body {
 
   .page-wrapper .lang-selector {
     display: none;
-  }
-
-  %right-col {
-    width: auto;
-    float: none;
   }
 
   %right-col + %left-col {
