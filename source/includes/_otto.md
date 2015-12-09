@@ -1,7 +1,8 @@
 # GETTING STARTED WITH OTTO!
 
 ## Unboxing your OTTO!
-![](images/IMG_7243.JPG)
+
+![OTTO in box](images/IMG_7243.JPG)
 
 Inside your fancy blue OTTO pelican case you will find
 
@@ -11,15 +12,22 @@ Inside your fancy blue OTTO pelican case you will find
 4. 2x Hex wrenches
 5. 2x Neck Strap D-Ring Hangers (-20 thread, fits tripod and side holes)
 
-![](images/IMG_7246.JPG)
+![OTTO stuff](images/IMG_7246.JPG)
 
 ## OTTO Buttons, Cranks, and Ports
 
 1. Pink Shutter Button - Selects and Activates menu items. Acts as a shutter button in GIF mode.
-2. Crank - Navigates OTTOs menu, Rotate clockwise in GIF mode to take images for GIFs. Rotate counter-clockwise in GIF mode to compile and save your images into a GIF.![crank](images/IMG_7247.JPG)
+2. Crank - Navigates OTTOs menu, Rotate clockwise in GIF mode to take images for GIFs. Rotate counter-clockwise in GIF mode to compile and save your images into a GIF.
+
+![crank](images/IMG_7247.JPG)
+
 3. Grey Button - Turns OTTO on. Navigates back to the OTTOs main menu.
-4. Power Port - Charges OTTO's battery via the USB Charging Cable.![Power Port](images/IMG_7250.JPG)
+4. Power Port - Charges OTTO's battery via the USB Charging Cable.
+
+![Power Port](images/IMG_7250.JPG)
+
 5. microUSB Port - The Yellow OTTO Circle houses a micro USB port. Twist left to access.
+
 ![microUSB port](images/IMG_7248.JPG)
 
 ## Turning OTTO on!
@@ -27,7 +35,7 @@ To power OTTO on, press the grey button on the underside of OTTO. Just a quick t
 
 If you press and hold for 4 seconds, it will always cut power. There is a computer booting inside, it could take up to 10-15 seconds before it can show an image.
 
-![](images/POWER-ONcompressed.gif)
+![power up](images/POWER-ONcompressed.gif)
 
 
 ## OTTO's Menu
@@ -36,18 +44,23 @@ Navigate OTTOs menu by rotating the crank. Press down on the crank to pop it up.
 1. GIF - OTTOs standard image making mode
 
 ![GIF](images/image6.jpeg)
+
 2. WiFi - Use this to turn on and off OTTOs WiFi. See OTTOs network and the IP address for accessing your GIFs through your phone or computer. 
 
 ![WiFi](images/image4.jpeg)
+
 3. Update - Get the latest and greatest OTTO software via wireless software updates. 
 
 ![Update](images/image5.jpeg)
+
 4. Battery Status - See how much charge is left on OTTO. 
 
 ![Battery Status](images/image3.jpeg)
+
 5. Memory - See the status of OTTOs internal storage.
 
 ![Memory](images/image2.jpeg)
+
 6. Sleep - Hold the pink shutter button to put OTTO to sleep. When OTTO says goodnight, OTTO is powered down. 
 
 ![Sleep](images/image1.jpeg)
@@ -60,17 +73,21 @@ To View!
 1. Use the crank to navigate to WiFi on OTTOs menu. Click the Pink Shutter button to turn WiFi on.
 2. Join the OTTO WiFi network on your phone or computer. Navigate to the IP address OTTO provides. 
 
-![](images/update3.jpg)
+![join network](images/update3.jpg)
+
 3. See your GIFs! Swipe Swipe right to view previous GIFs. 
 
-![](images/image3.png)
+![view gifs](images/image3.png)
+
 4. Tweet, Facebook, Pintrest or Download! Share your work!
 
 To Download!
 
 1. Select the curved arrow in the top right. ![](images/image1.png)
 2. Select download image.
-3. A new window with the GIF will open. To download onto your phone, press and hold on the GIF and select download image. To download onto your computer, right click and select save image. ![](images/image6.png)
+3. A new window with the GIF will open. To download onto your phone, press and hold on the GIF and select download image. To download onto your computer, right click and select save image. 
+
+![download](images/image6.png)
 
 ## Making GIFs!
 
@@ -127,13 +144,13 @@ Step 1 - The Parts
 2. DCCDuino
 3. Micro USB to Micro USB Cable
 
-![](images/image1_parts.jpeg)
+![FlashyFlash parts](images/image1_parts.jpeg)
 
 Step 2 - Attach DCCDuino
 
 If you look closely at the FlashyFlash board, you'll see that there is a row that has it's holes staggered:  the two outermost rows starting at the bottom of the FlashyFlash.
 
-![](images/image2_parts.jpeg)
+![Attach DCCDuino](images/image2_parts.jpeg)
 
 As long as you orient your DCCDuino the same way as the DCCDuino-shaped white outline on the Flashy Flash PCB, there's no wrong way to attach it. However, if it's attached using the staggered holes, your DCCDuino will have a much stronger hold, and you won't require soldering down for a secure fit.  
 
@@ -141,35 +158,35 @@ We recommend attaching the DCCDuino on the back of the FlashyFlash, via the sta
 
 That's a lot of words.  Let's see if this picture helps.
 
-![](images/FullSizeRender_2.jpg)
+![Attach DCCDuino](images/FullSizeRender_2.jpg)
 
 **ACHTUNG!**
 
 Mounting your DCCDuino sideways **WILL KILL IT.**
 
-![](images/IMG_0861.JPG)
+![WRONG](images/IMG_0861.JPG)
 
 Flashy Flash has breadboard-style traces (the blue lines on the image below) to make it easier to wire up circuits to your DCCDuino.
 
 Mounting DCCDuino sideways means those traces will cause short circuits that can (and likely will) destroy that microcontroller on DCCDuino.
 
-![](images/Screen_Shot_2015-09-17_at_7.22.24_PM.png)
+![CORRECT](images/Screen_Shot_2015-09-17_at_7.22.24_PM.png)
 
 Step 3 - Plug in the Micro USB Cable
 
 Slip FlashyFlash into OTTO's Hot Shoe and plug in the micro USB cable.  Again, no wrong way, but we recommend using the 90-degree angle connector on the FlashyFlash side.
 
-![](images/FullSizeRender.jpg)
+![plug in micro usb cable](images/FullSizeRender.jpg)
 
 Twist the Yellow OTTO cap to the left to reveal OTTO's micro USB port.  Plug FlashyFlash in!
 
-![](images/FullSizeRender_1.jpg)
+![plug in micro usb cable](images/FullSizeRender_1.jpg)
 
 Step 4 - Assembled.  Add sensors.  Get hacking.
 
 There ya go.  FlashyFlash is assembled and ready for sensors. Hack away! GIF away!</font>
 
-![](images/FullSizeRender_3.jpg)
+![flashyflash ready](images/FullSizeRender_3.jpg)
 
 # Using OTTO
 
@@ -178,49 +195,49 @@ OTTO and I have spent a lot of time together.  Here are some of the tips and tr
 
 **Tell a simple story!**  33 frames isn't a lot, but it's enough time to tell a simple story.  Like someone getting lost.  If you want your GIF to hold on a certain image, **click the shutter 5 times or so for the GIF to register a hold on an image for a moment.**
 
-![](images/gif_0146.gif)
+![tell a story](images/gif_0146.gif)
 
 **Experiment with movement!**  I love the "Crash Zoom" effect.  Move over a long distance and slow your shutter rate while moving.  Often even just two or three frames will give you a really dynamic movement.
 
-![](images/gif_0201.gif)
+![experiment with movement](images/gif_0201.gif)
 
 **Quick small moves back and forth are fun too! **
 
-![](images/gif_0184.gif)
+![small moves](images/gif_0184.gif)
 
 **Give yourself a lot of shutter clicks in a movement to create a smooth GIF.**
 
-![](images/gif_0155.gif)
+![smooth](images/gif_0155.gif)
 
 **OTTO GIFs automatically loop.  Try and create something that loops seamlessly from the end into the beginning.**
 
-![](images/kinskispin.gif)
+![seamless](images/kinskispin.gif)
 
 **Play with silhouette and high contrast.**  OTTO has a limited dynamic range, kinda like reversal film.  When you have strong blacks and a cool area of light, the colors really pop.
 
-![](images/gif_0071.gif)
+![beer](images/gif_0071.gif)
 
-![](images/gif_0102.gif)
+![fireworks](images/gif_0102.gif)
 
 **Don't be afraid to set OTTO down on a surface or use a tripod.**
 
-![](images/gif_0018.gif)
+![surface](images/gif_0018.gif)
 
-When OTTO starts a GIF, it sets both exposure and color space for the duration of the GIF.  By setting the "white balance" in an interesting color space on the first frame, you get a fun color effect throughout the GIF.
+When OTTO starts a GIF, it sets both exposure and color space for the duration of the GIF. By setting the "white balance" in an interesting color space on the first frame, you get a fun color effect throughout the GIF.
 
-![](images/tomasotto.gif)
+![white balance](images/tomasotto.gif)
 
 **You can make some _sweet_ time lapses.**
 
- ![](images/photo_2.GIF)
+ ![time lapse](images/photo_2.GIF)
 
 **Or do some magic tricks with clever trickery!  Use stop motion to make people fly!**
 
-![](images/IMG_7167.GIF)
+![fly away](images/IMG_7167.GIF)
 
 **Find a muse! It's more fun when someone is down to be silly!**
 
-![](images/flashyflash.gif)
+![silly sharps](images/flashyflash.gif)
 
 **Part of the fun of OTTO is experimenting!  **Hopefully these help get you started!  Of course, not every GIF will come out perfect, but that's how you learn, and sometimes you get happy accidents!
 
@@ -228,7 +245,7 @@ When OTTO starts a GIF, it sets both exposure and color space for the duration o
 
 **You can also edit GIFs in Photoshop.**  Take out accidental shutter clicks, change the timing of each frame, or stitch multiple GIFs together.
 
-=![](images/coffee.gif)
+=![coffee what](images/coffee.gif)
 
 **So get out there and GIF OTTOgraphers!  Let us see your GIFs!**
 
@@ -238,10 +255,19 @@ To retrieve and delete your OTTO GIFs using your computer, we recommend using th
 
 1. Connect your computer to OTTOs wireless network.
 2. Open CyberDuck. Click Open Connection.
-3. Select SFTP (SSH File Transfer Protocol) ![](images/cyberduck1.png)
+3. Select SFTP (SSH File Transfer Protocol) 
+
+![](images/cyberduck1.png)
+
 4. Input OTTO’s WiFi address
-5. Username is root // Password is doge1234 ![](images/cyberduck2.png)
-6. Click Connect. Navigate to /mnt/pictures ![](images/cyberduck3.png)
+5. Username is root // Password is doge1234 
+
+![](images/cyberduck2.png)
+
+6. Click Connect. Navigate to /mnt/pictures 
+
+![](images/cyberduck3.png)
+
 7. Drag and drop your GIFs to a folder on your computer. Then delete if you wish!
 
 **¡VIVA OTTO!**
@@ -252,10 +278,19 @@ OTTO charges via the port at the bottom with the provided Wall Wart and USB to b
 ## Updating OTTO
 
 1. [Set up OTTO onto your WiFi Network.](#setting-up-otto-to-use-your-wifi-network)
-2. Navigate the menu to 'UPDATE by turning the crank. ![](images/update4.jpg)
+2. Navigate the menu to 'UPDATE by turning the crank. 
+
+![](images/update4.jpg)
+
 3. Click the pink shutter button to check for an update.
-4. If OTTO finds one, it will update itself. ![](images/update6.jpg) 
-5. Once finished, it will ask to reboot.  Click the pink shutter button to reboot OTTO. ![](images/update9.jpg)
+4. If OTTO finds one, it will update itself. 
+
+![](images/update6.jpg) 
+
+5. Once finished, it will ask to reboot.  Click the pink shutter button to reboot OTTO. 
+
+![](images/update9.jpg)
+
 6. OTTO will boot with the newest software!
 
 **¡VIVA OTTO!**
