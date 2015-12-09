@@ -83,7 +83,10 @@ To View!
 
 To Download!
 
-1. Select the curved arrow in the top right. ![](images/image1.png)
+1. Select the curved arrow in the top right. 
+
+![select curved arrow](images/image1.png)
+
 2. Select download image.
 3. A new window with the GIF will open. To download onto your phone, press and hold on the GIF and select download image. To download onto your computer, right click and select save image. 
 
